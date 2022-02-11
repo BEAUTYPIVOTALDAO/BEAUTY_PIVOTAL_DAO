@@ -12,7 +12,7 @@ Coming soon: stakes token STAKETOKEN_LIVELYBEAUTY_MIX_SIGMA_PIVOTAL_DAO.
 
 ## Community
 
- * IRC channel `#beauty_pivotal_dao` at `irc.ilita.i2p`. To access the `.i2p` system, you can use the https://i2pd.website/ software with the usual IRC clients.
+ * IRC channel `#beauty_pivotal_dao` at `irc.ilita.i2p` (coming soon: relocating to another, better named domain). To access the `.i2p` system, you can use the https://i2pd.website/ software with the usual IRC clients.
 
 ## Feedback
 
